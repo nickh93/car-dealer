@@ -47,7 +47,8 @@
         {
             $this->img = $new_img;
         }
-        function getImg (){
+        function getImg()
+        {
           return $this->img;
         }
 
